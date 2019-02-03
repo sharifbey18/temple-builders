@@ -1,0 +1,22 @@
+{
+  "name": "temple-builders",
+  "version": "1.0.0",
+  "description": "exercise/gym site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharifbey18/temple-builders.git"
+  },
+  "keywords": [
+    "gym"
+  ],
+  "author": "TEK BRANCH SOLUTIONS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharifbey18/temple-builders/issues"
+  },
+  "homepage": "https://github.com/sharifbey18/temple-builders#readme"
+}
