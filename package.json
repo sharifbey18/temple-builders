@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/sharifbey18/temple-builders/issues"
   },
-  "homepage": "https://github.com/sharifbey18/temple-builders#readme"
+  "homepage": "https://github.com/sharifbey18/temple-builders#readme",
+  "dependencies": {
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-install": "^1.1.0",
+    "gulp-sass": "^4.0.2"
+  }
 }
